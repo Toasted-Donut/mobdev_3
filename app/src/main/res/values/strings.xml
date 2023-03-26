@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">mobdev3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings">settings</string>
+    <string name="name">nikita</string>
+    <string name="lastname">egorov</string>
+    <string name="msg_to">msg_to</string>
+    <string name="msg_from">msg_from</string>
+</resources>
